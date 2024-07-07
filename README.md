@@ -13,11 +13,11 @@ print(f`Follow {OkPeach} on Github`)
 ```
 
 ```javascript
-       OS  :  windows 10
-    Linux  :  manjaro OS
+       OS  :  windows 11
+    Linux  :  Arch w/hyprland
 Languages  :  C#, html, css (scss), js (jquery), nodejs, python
  Learning  :  PHP, C++
-  Discord  :  unlucky#8888
+  Discord  :  unlucky.life
 ```
 
 ```python
